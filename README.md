@@ -1,5 +1,5 @@
   #  👋 Hi, I’m Mohd Hadi
-- 🔭 I'm currently working in Web3 startup as Frontend Developer
+- 🔭 I'm currently working in Web3 startup (Buckmint) as Frontend Developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React, Express, NodeJs
 - 💞️ I’m looking for some great Challenges
