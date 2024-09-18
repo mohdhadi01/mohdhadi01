@@ -1,7 +1,6 @@
   #  👋 Hi, I’m Mohd Hadi
 - 🔭 I'm currently working in Web3 startup (Buckmint) as Frontend Developer
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Express, NodeJs
+- 👀 I’m interested in New futuristic where i can contribute for something bigger.
 - 💞️ I’m looking for some great Challenges
 - ⚡ Check out my portfolio (https://mohdhadi.vercel.app/)
 - 📫 How to reach me [Click me ](https://www.linkedin.com/in/mohd-hadi-5a4638226/)
