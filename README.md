@@ -35,25 +35,18 @@
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **ZOOOX App** | Robust MIME email decoding & Gmail import via Google OAuth. | GraphQL, Apollo, SWR |
+| **ZOOOX App** | Robust MIME email decoding & Gmail import via Google OAuth. | React Native, GraphQL, Apollo, SWR |
 | **MockInMinutes** | AI Interview Assistant with voice-driven TTS/STT flows. | React Native, Groq AI |
-| **ZOOOX Web** | Architected a Turborepo, reducing code duplication by 35%. | TypeScript, Monorepo |
+| **ZOOOX Web** | Architected a Turborepo, reducing code duplication by 35%. | React, TypeScript, Monorepo |
 | **Buckmint DEX** | Blockchain-based dashboard for trading and portfolios. | React, Redux, TS |
 
 ---
 
 ## 📊 Git Insights
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<br>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=moohdhadi01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mohdhadi01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohdhadi01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhadi01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
